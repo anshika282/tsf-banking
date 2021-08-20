@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 19, 2021 at 07:09 AM
+-- Generation Time: Aug 19, 2021 at 07:09 AM
 -- Server version: 10.1.31-MariaDB
 -- PHP Version: 7.2.3
 
@@ -41,16 +41,16 @@ CREATE TABLE `customer_details` (
 --
 
 INSERT INTO `customer_details` (`name`, `email`, `account_no`, `current_bal`, `address`) VALUES
-('Shubhash Patil', 'shubhash@gmail.com', 1, 618779, 'India'),
-('Akash Shah', 'akash@gmail.com', 2, 101000, 'India'),
-('James Smith', 'james@gmail.com', 3, 464221, 'USA'),
-('John Davidson', 'john@gmail.com', 4, 330000, 'Russia'),
-('Sally Jones', 'sally@gmail.com', 5, 160000, 'USA'),
-('Jane Nortan ', 'jane@gmail.com', 6, 550000, 'Japan'),
-('Sana Khan', 'sana@gmail.com', 7, 340000, 'Pakisthan'),
-('Ram Kapoor', 'ram@gmail.com', 8, 675000, 'India'),
-('Alex Wilson', 'alex@gmail.com', 9, 450000, 'China'),
-('Dennis Potter', 'dennis@gmail.com', 10, 780000, 'Australia');
+('Joey', 'Joey@gmail.com', 1, 618779, 'USA'),
+('Chandler', 'Chandler@gmail.com', 2, 101000, 'India'),
+('Phoebe', 'Phoebe@gmail.com', 3, 464221, 'USA'),
+('Ross', 'Ross@gmail.com', 4, 320000, 'Japan'),
+('Monica', 'Monica@gmail.com', 5, 190000, 'USA'),
+('Rachel ', 'Rachel@gmail.com', 6, 570000, 'Japan'),
+('Jake', 'Jake@gmail.com', 7, 320000, 'Australia'),
+('Amy', 'Amy@gmail.com', 8, 675000, 'India'),
+('Jack', 'Jack@gmail.com', 9, 450600, 'USA'),
+('Rebecca', 'Rebecca@gmail.com', 10, 740000, 'Australia');
 
 -- --------------------------------------------------------
 
